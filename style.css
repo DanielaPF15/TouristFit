@@ -1,0 +1,19 @@
+.bg-gray{
+    background-color: rgb(35, 77, 38);
+}
+.height-carousel{
+min-height: 400px;
+max-height: 400px;
+}
+.fa-facebook-f{
+font-size: 3rem;
+color: blue;
+}
+.fa-biking{
+    font-size: 3rem;
+    color: rgb(39, 204, 66);    
+}
+.fa-volleyball-ball{
+    font-size: 3rem;
+    color: rgb(39, 193, 204);    
+}

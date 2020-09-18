@@ -1,19 +1,38 @@
+*{
+    font-size: arial;
+}
 .bg-gray{
-    background-color: rgb(35, 77, 38);
+    background-color: rgb(23, 50, 63);
 }
 .height-carousel{
 min-height: 400px;
 max-height: 400px;
 }
-.fa-facebook-f{
+.fa-facebook{
 font-size: 3rem;
 color: blue;
 }
-.fa-biking{
+.fa-phone-square-alt{
     font-size: 3rem;
-    color: rgb(39, 204, 66);    
+    color: rgb(39, 204, 66); 
 }
-.fa-volleyball-ball{
+.fa-instagram-square{
     font-size: 3rem;
-    color: rgb(39, 193, 204);    
+    color: rgb(201, 17, 201);    
+}
+.img-inicio{
+    width: 60%;
+    border-radius: 10%;
+    border:1px green solid;
+}
+.img-language img{
+    width: 60%;
+    border: 2px teal;
+    border-radius: 30px;
+}
+.img-language img:hover{
+    border: 5px pink solid;
+    border-radius: 30px;
+    box-shadow: 3px 5px 5px #706f6f;
+    
 }

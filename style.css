@@ -23,7 +23,7 @@ color: blue;
 .img-inicio{
     width: 60%;
     border-radius: 10%;
-    border:1px green solid;
+   /* border:1px green solid;*/
 }
 .img-language img{
     width: 60%;

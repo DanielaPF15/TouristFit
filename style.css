@@ -30,12 +30,12 @@ color: blue;
    /* border:1px green solid;*/
 }
 .img-language img{
-    width: 60%;
+    width: 300px;
     border: 2px teal;
     border-radius: 30px;
 }
 .img-language img:hover{
-    border: 5px pink solid;
+    border: 5px rgb(122, 171, 216) solid;
     border-radius: 30px;
     box-shadow: 3px 5px 5px #706f6f;
     
